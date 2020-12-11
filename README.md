@@ -38,5 +38,20 @@ Make sure you are able to build and run applications in your studion or local se
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/config.png)
 
 
+### Step 4: Set up Splunk on your local machine 
+
+https://dev.splunk.com/enterprise/dev_license
+
+
+### Step 5: Splunk setup and configuration 
+
+-  Set up Http and TCP Event Collectors 
+   - Open Data Inputs under settings
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/DataInputs.png)
+  - Set up Http Collector 
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/HttpCollector.png)
+  - Set up TCP Collector 
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/TCPCollector.png)
+
 
 
