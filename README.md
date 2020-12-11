@@ -48,9 +48,9 @@ https://dev.splunk.com/enterprise/dev_license
 -  Set up Http and TCP Event Collectors 
    - Open Data Inputs under settings
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/DataInputs.png)
-  - Set up Http Collector 
+   - Set up HTTP Collector
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/HttpCollector.png)
-  - Set up TCP Collector 
+   - Set up TCP Collector
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/TCPCollector.png)
 
 
