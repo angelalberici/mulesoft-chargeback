@@ -22,5 +22,12 @@ In our prototype app we used the mule4 correlation ID configuration to pass the 
 
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/APILayers.png)
 
-- Import order-sapi in Anypoint Studio 
-- Import ecomm
+Download all application source jar files and import in Anypoint Studio (version 7) 
+- Download and Import order-sapi.jar file in Anypoint Studio 
+- Download and Import ecommerce-order-eapi.jar file in Anypoint Studio
+- Download and Import mobile-order-eapi.jar file in Anypoint Studio
+
+Make sure you are able to build and run applications in your studion or local server 
+- order sapi is default running on url : localhost:8081/api/orders/123
+- ecommerce eapi is default running on url : localhost:8082/ecomapi/orders/123
+- mobile eapi is default running on url :  localhost:8083/mobileapi/orders/123
