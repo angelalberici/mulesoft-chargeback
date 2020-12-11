@@ -21,3 +21,6 @@
 In our prototype app we used the mule4 correlation ID configuration to pass the correlation ID down with a prefix of the calling group (e.g, mobile or ecom). This ID is logged with the standard JSON Logger to Splunk. An OOB platform API can pull the full set of application and core configurations to compute the bills
 
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/APILayers.png)
+
+- Import order-sapi in Anypoint Studio 
+- Import ecomm
