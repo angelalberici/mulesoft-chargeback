@@ -11,7 +11,7 @@
   Let's get Started !!!!
 
 ### Step 1: Use Case for Prototype 
-  Let's take a fictitious use where we have two clients or groups in a company, Ecommerce and Mobile calling building apps to submit/get an order to/from a common backend system (eg. SAP or OMS) . Mobile App calls Mobile Order EAPI ( Experience API ) and Ecommerce App calls Ecom Order EAPI (Experience API) to submit/get or perform crud operations. Each of experience API in turn calls common Order SAPI (system API) to perform respective crud operation 
+  Let's take a fictitious use where we have two clients or groups in a company, Ecommerce and Mobile apps call respective experience api in mulesoft platform to submit/get an order to/from a common backend system (eg. SAP or OMS) . Mobile App calls Mobile Order EAPI ( Experience API ) and Ecommerce App calls Ecom Order EAPI (Experience API) to submit/get or perform crud operations. Each of experience API in turn calls common Order SAPI (system API) to perform respective crud operation 
 
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/UseCase.png)
 
