@@ -1,4 +1,4 @@
-# # mulesoft-chargeback : This repository is created for poc to prove out the chargeback model for MuleSoft Platform 
+# # mulesoft-chargeback : This repository is created as Proof of Concept to prove out the chargeback model for MuleSoft Platform 
 ## # Table of Contents 
 ###   1. Use Case for the Prototype
 ###   2. Source files to import in Anypoint Studio
@@ -18,3 +18,6 @@
 
 ### Step 2 Source files to import in Anypoint Studio 
 
+In our prototype app we used the mule4 correlation ID configuration to pass the correlation ID down with a prefix of the calling group (e.g, mobile or ecom). This ID is logged with the standard JSON Logger to Splunk. An OOB platform API can pull the full set of application and core configurations to compute the bills
+
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/APILayers.png)
