@@ -53,5 +53,13 @@ https://dev.splunk.com/enterprise/dev_license
    - Set up TCP Collector
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/TCPCollector.png)
 
+###   6. Import MuleSoft POC Flows app cores JSON files in Splunk
+- Dowload and Import app_vcore.json file ( this json file contains app level app cores utilized, remaining and total for group and environment). This data can be created using cloud hub api to get cores for each app in an environment 
 
+  - Click Settings --> Add Data
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/SettingsAddData.png)
+   - Upload app_core json file 
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/upload.png)
+   - Choose index as main while uploading file 
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/mainindexforupload.png)
 
