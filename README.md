@@ -1,7 +1,7 @@
 # # mulesoft-chargeback : This repository is created as Proof of Concept to prove out the chargeback model for MuleSoft Platform 
 ## # Table of Contents 
 ###   1. Use Case for the Prototype
-###   2. Source files to import in Anypoint Studio
+###   2. Download and Run Source files after importing in Anypoint Studio
 ###   3. Closer look at Splunk Log4 Appender configuration for MuleSoft flows to ingest data in Splunk
 ###   4. Splunk set up on your system 
 ###   5. Splunk configuration and index creation
@@ -31,3 +31,12 @@ Make sure you are able to build and run applications in your studion or local se
 - order sapi is default running on url : localhost:8081/api/orders/123
 - ecommerce eapi is default running on url : localhost:8082/ecomapi/orders/123
 - mobile eapi is default running on url :  localhost:8083/mobileapi/orders/123
+
+### Step 3: Closer look at Splunk appender configuration to ingest data in Splunk
+
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/log4jappender.png)
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/config.png)
+
+
+
+
