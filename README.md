@@ -63,3 +63,17 @@ https://dev.splunk.com/enterprise/dev_license
    - Choose index as main while uploading file 
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/mainindexforupload.png)
 
+###   7. Configure Splunk Dashboards for application level counts and chargeback for clients
+
+- Create and Save Table View 
+  - Create Table View
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/CreateTableView.png)
+   - Select all Fields
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/TableViewFields.png)
+   - Save Table View 
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/SaveTableView.png)
+  - Save Table View as ChargeBackTableView
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/SaveTableViewAsChargeBackTableView.png)
+
+
+
