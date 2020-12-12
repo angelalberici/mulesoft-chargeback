@@ -81,7 +81,6 @@ https://dev.splunk.com/enterprise/dev_license
    - Configure Dashboard Panel
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/CopyChargeBackDemoDashboardxml.png)
 
-- Dashboard Charts 
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/Dashboard.png)
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/Cores.png)
 
