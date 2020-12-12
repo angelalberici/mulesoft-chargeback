@@ -75,5 +75,9 @@ https://dev.splunk.com/enterprise/dev_license
   - Save Table View as ChargeBackTableView
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/SaveTableViewAsChargeBackTableView.png)
 
-
+- Create Dashboard and Configure
+  - Create Dashboard
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/CreateNewDashboard.png)
+   - Configure Dashboard Panel
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/CopyChargeBackDemoDashboardxml.png)
 
