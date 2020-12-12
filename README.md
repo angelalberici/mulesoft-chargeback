@@ -77,8 +77,9 @@ https://dev.splunk.com/enterprise/dev_license
 
 - Create Dashboard and Configure
   - Create Dashboard
-![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/CreateNewDashboard.png)
+![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/CreateNewDashboard.png)
    - Configure Dashboard Panel
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/CopyChargeBackDemoDashboardxml.png)
+
 
 
