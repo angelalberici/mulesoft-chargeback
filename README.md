@@ -84,3 +84,6 @@ https://dev.splunk.com/enterprise/dev_license
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/Dashboard.png)
 ![](https://github.com/nikhilgauba/mulesoft-chargeback/blob/main/Cores.png)
 
+
+###Disclaimer
+This is not an officially supported MuleSoft Product. It is not supported by MuleSoft Support: you won't be able to open MuleSoft Support cases for this Suite and there are no SLAs for responses nor bug/features progress.
